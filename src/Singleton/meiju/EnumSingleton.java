@@ -1,4 +1,4 @@
-package Singleton.meiju;
+package singleton.meiju;
 
 /**
  * Created by LS on 2018-5-6.

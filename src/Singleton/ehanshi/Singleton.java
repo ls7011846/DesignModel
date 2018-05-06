@@ -1,4 +1,4 @@
-package Singleton.ehanshi;
+package singleton.ehanshi;
 
 /**
  * Created by LS on 2018-5-6.

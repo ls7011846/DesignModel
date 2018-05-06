@@ -1,4 +1,4 @@
-package Singleton.lanhanshi;
+package singleton.lanhanshi;
 
 /**
  * Created by LS on 2018-5-6.
